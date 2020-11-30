@@ -1,21 +1,17 @@
-# Jekyll template
-Beautiful responsive portfolio style template for designers and web developers
+# Jekyll Modern Blog
 
-[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
+A Simple, Clean and responsive modern blog for jekyll.
 
-![preview](http://i.imgur.com/9Nz6Ib9.jpg)
+## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
-## Demo
-Find a demo [here](http://nikrich.github.io/jekyll-slender-template/#)
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
-## Contributing
+## License
 
-1. Clone the repo
-2. Checkout the dev branch ( Do not work directly on master )
-3. Use ```jekyll serve``` to run the project
-4. Make your changes and test
-5. Submit a pull request
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
-Inspired by [Balraj Chana](https://dribbble.com/shots/2380700-New-Portfolio-Site-Live)
+Changes being that I made it jekyll ready and smushed the CSS together.
