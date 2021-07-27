@@ -15,6 +15,9 @@
 # General settings
 # ---------------------------------------------------------------------------------------
 
+# favicon
+favicon:               /assets/img/icons/uranus.png
+
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
@@ -187,7 +190,7 @@ kramdown:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random, comments]
+  post_addons:         [newsletter, related, random, comments]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other, comments]
