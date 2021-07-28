@@ -16,7 +16,7 @@
 # ---------------------------------------------------------------------------------------
 
 # favicon
-favicon:               /assets/img/icons/uranus.png
+favicon:               /assets/img/icons/favicon.ico
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
