@@ -15,4 +15,4 @@ Hive a nice day!
 
 好的开始是成功的一半！
 
-![Cyberpunk 2021](/assets/img/blog/cyp2021.jpg){:.border.lead width="1366" height="768" loading="lazy"}
+![Cyberpunk 2021](/assets/img/blog/cyp2021.jpg)
